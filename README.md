@@ -1,9 +1,3 @@
-Tip Time - Solution Code
-=================================
-
-Starter code for the [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course): Tip Time app.
-
-
 Introduction
 ------------
 The Tip Time app contains various UI elements for calculating a tip,
